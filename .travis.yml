@@ -8,4 +8,4 @@ os:
         - linux
 
 script:
-        - ./gradlew clean buil8d
+        - ./gradlew clean build
